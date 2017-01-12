@@ -1,22 +1,22 @@
 Please Clear your cache ("WTF") folders of your game client before reporting any issue. 
 
 
-How to report a bug?
+**How to report a bug?**
 
 
-Current behaviour: Tell us what happens in detail (Where, When, What, Why, Who)
+**Current behaviour:** Tell us what happens in detail (Where, When, What, Why, Who)
 
-Expected behaviour: Tell us what should happen instead
+**Expected behaviour:** Tell us what should happen instead
 
-Steps to reproduce the problem:
+**Steps to reproduce the problem:**
 
-Source (proofs for this behaviour):
+- 1.
 
-1.
+- 2.
 
-2.
+- 3.
 
-3.
+**Source (proofs for this behaviour):**
 
 You can research this on several pages like http://wowhead.com or http://wowwiki.wikia.com or http://www.youtube.com/ 
 
