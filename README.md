@@ -1,4 +1,4 @@
-Please Clear your cache ("WTF") folders of your game client before reporting any issue. 
+Please Clear your cache ("WDB") folder of your game client before reporting any issue. 
 
 
 **How to report a bug?**
