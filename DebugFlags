@@ -1,0 +1,4 @@
+DebugFlags
+0x1 = DAMAGE_RECEIVED = 1
+
+To enable ingame use .setdebugflag <parameter>
