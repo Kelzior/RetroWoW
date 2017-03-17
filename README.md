@@ -16,7 +16,7 @@ Please Clear your cache ("WDB") folder of your game client before reporting any 
 
 - 3.
 
-**Source (proofs for this behaviour):**
+**Source (proofs for this behavior):**
 
 You can research this on several pages like http://wowhead.com or http://wowwiki.wikia.com or http://www.youtube.com/ 
 
