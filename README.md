@@ -4,9 +4,9 @@ Please Clear your cache ("WDB") folder of your game client before reporting any 
 **How to report a bug?**
 
 
-**Current behaviour:** Tell us what happens in detail (Where, When, What, Why, Who)
+**Current behavior:** Tell us what happens in detail (Where, When, What, Why, Who)
 
-**Expected behaviour:** Tell us what should happen instead
+**Expected behavior:** Tell us what should happen instead
 
 **Steps to reproduce the problem:**
 
