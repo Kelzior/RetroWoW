@@ -1,8 +1,8 @@
 **Description**:
 
-**Current behaviour**: Tell us what happens
+**Current behavior**: Tell us what happens
 
-**Expected behaviour**: Tell us what should happen instead
+**Expected behavior**: Tell us what should happen instead
 
 **Steps to reproduce the problem**:
 
